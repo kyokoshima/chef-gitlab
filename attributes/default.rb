@@ -1,0 +1,1 @@
+default["ntp"]["servers"] =  ["ntp.nict.jp", "ntp.jst.mfeed.ad.jp"]
